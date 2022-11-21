@@ -10,3 +10,7 @@
 - 📫 How to reach me:
   - **https://www.linkedin.com/in/marcgavilangil/**
   - **marcgavilangil@gmail.com**
+
+> Computer science is no more about computers than astronomy is about telescopes.
+>
+> -- <cite>Edsger Wybe Dijkstra</cite>
