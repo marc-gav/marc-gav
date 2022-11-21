@@ -7,4 +7,6 @@
 - 🔨 I also work part time at Unique helping to develop their AI services: https://www.unique.ch/homepage
 - 👯 I’m looking to collaborate on **cool open source projects related to language and deep learning**. Don't hessitate to hit me up if you need some help with a project like that, even if it's a small tool to get done over the weekend.
 
-- 📫 How to reach me **https://www.linkedin.com/in/marcgavilangil/**
+- 📫 How to reach me:
+  - **https://www.linkedin.com/in/marcgavilangil/**
+  - **marcgavilangil@gmail.com**
