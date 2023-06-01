@@ -4,7 +4,7 @@
 
 - https://marc-gav.github.io/
 - 🔭 Just completed my Master Thesis at TUM (Munich): **Studying BERT, its word embeddings and explainability scores**.
-- Looking to contribute to interesting and useful projects on Python or C++.
+- Looking to contribute to interesting and useful open source projects
 - Currently learning a bit more about hacking. I'm doing some CTF challenges in https://play.picoctf.org/login. You can find my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions
 
 - 📫 How to reach me:
