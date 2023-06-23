@@ -18,7 +18,7 @@ I am improving my C++ skills by combining the knowledge from this amazing websit
 
 ## Previously working on
 
-- Every december I participate in the Advent of Code coding (algorithmic) challenges: https://adventofcode.com/. You can find my previous solutions here:
+- Every december I participate in the Advent of Code coding challenges (algorithmic): https://adventofcode.com/. You can find my previous solutions here:
   - 2022 (Python): https://github.com/marc-gav/advent2022
   - 2021 (Python): https://github.com/marc-gav/advent-of-code-2021
   - 2020: (C++): https://github.com/marc-gav/AdventOfCode2020
