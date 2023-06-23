@@ -14,7 +14,7 @@ In my free time I like to get increasingly deep understanding of different techn
 
 I am currenly learning about network protocols. As part of this learning experience I am working on this project: https://github.com/marc-gav/Wireshark-log-stream-info. Feel free to contribute because there's a lot do :)
 
-I am improving my C++ skills by combining the knowledge from this amazing website: https://www.learncpp.com/ and applying it to this project: https://github.com/marc-gav/passwd-manager
+I am improving my C++ skills by combining the knowledge from this amazing website: https://www.learncpp.com/ with this project: https://github.com/marc-gav/passwd-manager
 
 ## Previously working on
 
