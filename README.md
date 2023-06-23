@@ -14,3 +14,6 @@
 > Computer science is no more about computers than astronomy is about telescopes.
 >
 > -- <cite>Edsger Wybe Dijkstra</cite>
+> But the telescopes are also pretty cool
+>
+> -- <cite>Marc Gavilán</cite>
