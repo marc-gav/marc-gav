@@ -10,6 +10,9 @@ Probably my favourite thing about technology is the concept of hacking: "Playful
 
 In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions.
 
+## Today I learnt
+I post my daily learnings in this repo: https://github.com/marc-gav/TIL
+
 ## Currenly working on
 
 I am currenly learning about network protocols. As part of this learning experience I am working on this project: https://github.com/marc-gav/Wireshark-log-stream-info. Feel free to contribute because there's a lot do :)
