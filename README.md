@@ -2,9 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marc-gav&label=Profile%20views&color=0e75b6&style=flat" alt="marc-gav" /> </p>
 
-## Offical stuff about me
-I completed my major in computer science in Valencia, Spain. Then, I obtained a Master's in Data Engineering and Analytics at TU Munich, Germany.
-
 ## Interesting things about me
 Probably my favourite thing about technology is the concept of hacking: "Playful solving of technical work that requires deep understanding, especially of a computer system."
 
