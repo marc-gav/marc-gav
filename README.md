@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Marc Gavilán</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marc-gav&label=Profile%20views&color=0e75b6&style=flat" alt="marc-gav" /> </p>
 
-## Interesting things about me
+## About me
 Probably my favourite thing about technology is the concept of hacking: "Playful solving of technical work that requires deep understanding, especially of a computer system."
 
 In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find some of my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions. I stopped adding my new solutions because honestly you can find better write-ups for picoCTF online.
