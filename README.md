@@ -18,6 +18,6 @@ I am currenly learning about the Linux kernel, reverse engineering and network p
 - During 2017/18/19 I participated in various game development projects and Game Jams. The most advanced game my team and I created was Aqueron: https://github.com/marc-gav/cdvAqueron
 
 ## 📫 How to reach me.
-Add this code to your message so I know you are not spam: **MJzwT3Bk**
+Add this code to your message so I have a bit more confidence that you are not spam: **MJzwT3Bk**
 - **https://www.linkedin.com/in/marcgavilangil/**
 - **marcgavilangil@gmail.com**
