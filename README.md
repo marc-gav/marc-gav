@@ -3,7 +3,7 @@
 ## About me
 Probably my favourite thing about technology is the concept of hacking: "Playful solving of technical work that requires deep understanding, especially of a computer system."
 
-In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find some of my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions. I stopped adding my new solutions because honestly you can find better write-ups for picoCTF online.
+In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find some of my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions. I stopped adding my new solutions because honestly you can find better write-ups for picoCTF on youtube from people that know more than me.
 
 I am currenly learning about the Linux kernel, reverse engineering and network protocols. 
 
