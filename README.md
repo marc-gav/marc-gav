@@ -8,13 +8,9 @@ I completed my major in computer science in Valencia, Spain. Then, I obtained a 
 ## Interesting things about me
 Probably my favourite thing about technology is the concept of hacking: "Playful solving of technical work that requires deep understanding, especially of a computer system."
 
-In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions.
+In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find some of my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions. I stopped adding my new solutions because honestly you can find better write-ups for picoCTF online.
 
-## Currenly working on
-
-I am currenly learning about network protocols. As part of this learning experience I am working on this project: https://github.com/marc-gav/Wireshark-log-stream-info. Feel free to contribute because there's a lot do :)
-
-I am improving my C++ skills by combining the knowledge from this amazing website: https://www.learncpp.com/ with this project: https://github.com/marc-gav/passwd-manager
+I am currenly learning about the Linux kernel, reverse engineering and network protocols. 
 
 ## Previously working on
 
