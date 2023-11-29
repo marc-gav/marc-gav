@@ -17,6 +17,7 @@ I am currenly learning about the Linux kernel, reverse engineering and network p
 - In 2022 I worked on my Master's thesis in NLP (Natural Language Processing, Machine Learning). You can read more about it here: https://github.com/marc-gav/MasterThesis
 - During 2017/18/19 I participated in various game development projects and Game Jams. The most advanced game my team and I created was Aqueron: https://github.com/marc-gav/cdvAqueron
 
-## 📫 How to reach me
+## 📫 How to reach me.
+Add this code to your message so I know you are not spam: MJzwT3Bk
 - **https://www.linkedin.com/in/marcgavilangil/**
 - **marcgavilangil@gmail.com**
