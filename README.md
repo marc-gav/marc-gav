@@ -10,6 +10,7 @@ I am currenly learning about the Linux kernel, reverse engineering and network p
 ## Previously working on
 
 - Every december I participate in the Advent of Code coding challenges (algorithmic): https://adventofcode.com/. You can find my previous solutions here:
+  - 2023 (Language TBD): link tbd
   - 2022 (Python): https://github.com/marc-gav/advent2022
   - 2021 (Python): https://github.com/marc-gav/advent-of-code-2021
   - 2020: (C++): https://github.com/marc-gav/AdventOfCode2020
